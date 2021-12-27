@@ -1,2 +1,1 @@
-# carmenfritsche
-Carmen Fritsche Portfolio
+# Carmen Fritsche Portfolio
