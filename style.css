@@ -21,7 +21,7 @@
 }
 
 .section-item-img {
-    width: 300px;
+    width: 250px;
     border: 1rem solid white;
     transform: rotate(10deg);
 }
@@ -43,4 +43,16 @@
     width: 100%;
     min-height: 100vh;
     background-color: rgba(0, 0, 0, 0.33);
+}
+
+.work-card {
+    width: 300px;
+    margin: 1rem;
+}
+
+.work-card .card-img-top {
+    width: 300px;
+    height: 170px;
+    object-fit: cover;
+    object-position: 50% 50%;
 }
