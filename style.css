@@ -68,7 +68,7 @@
 */
 
 .arrow {
-    position: fixed;
+    position: absolute;
     bottom: 60px;
     left: 50%;
     margin-left: -20px;
@@ -100,4 +100,13 @@
     90% {
         opacity: 0.3;
     }
+}
+
+footer {
+    min-height: 50vh;
+}
+
+.social-link {
+    font-size: x-large;
+    margin: 1rem;
 }
