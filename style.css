@@ -69,7 +69,7 @@
 
 .arrow {
     position: absolute;
-    bottom: 60px;
+    bottom: 40px;
     left: 50%;
     margin-left: -20px;
     width: 40px;
@@ -79,7 +79,7 @@
 }
 
 .arrow:first-child {
-    bottom: 80px;
+    bottom: 60px;
     opacity: 0.3;
 }
 
