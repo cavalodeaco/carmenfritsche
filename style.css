@@ -61,6 +61,10 @@
     object-position: 50% 50%;
 }
 
+.col-md-6 .figure {
+    max-width: 400px;
+}
+
 
 /*
     Simple Scroll down Hint
