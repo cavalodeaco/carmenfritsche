@@ -61,6 +61,13 @@
     object-position: 50% 50%;
 }
 
+.figure {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
 
 /*
     Simple Scroll down Hint
