@@ -61,11 +61,8 @@
     object-position: 50% 50%;
 }
 
-.figure {
-    width: 600px;
-    height: 400px;
-    object-fit: cover;
-    object-position: 50% 50%;
+.col-md-6 .figure {
+    max-width: 400px;
 }
 
 
