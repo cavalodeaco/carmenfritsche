@@ -39,7 +39,7 @@
 }
 
 #main-banner {
-    background-image: url("/img/banner_background.jpeg");
+    background-image: url("/img/banner_background.webp");
     background-size: cover;
     background-position: center top;
 }
@@ -109,7 +109,7 @@
 
 .footer {
     min-height: 100vh;
-    background-image: url("/img/footer.jpg");
+    background-image: url("/img/footer.webp");
     background-size: cover;
     background-position: center top;
 }
